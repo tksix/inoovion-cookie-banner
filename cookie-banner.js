@@ -60,9 +60,9 @@ var klaroConfig = {
             onlyOnce: true
         },
         {
-            name: 'fillout',
-            title: 'Fillout Formulare',
-            purposes: ['marketing'],
+            name: 'calcom',
+            title: 'Cal.com Terminbuchung',
+            purposes: ['functional'],
             required: false,
             default: false,
             onlyOnce: true
