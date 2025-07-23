@@ -3,7 +3,7 @@
 var klaroConfig = {
     version: 1,
     elementID: 'cookie-container',
-    cookieName: 'cookie-consent',
+    cookieName: 'cookie-consent-v1',
     htmlTexts: true,
     embedded: false,
     storageMethod: 'cookie',
